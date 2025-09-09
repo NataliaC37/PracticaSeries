@@ -1,8 +1,0 @@
-# Ignorar carpeta de entorno virtual
-Lib/
-Scripts/
-pyvenv.cfg
-
-# Ignorar archivos pycache
-__pycache__/
-*.pyc
